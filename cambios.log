@@ -1,0 +1,11 @@
+[2024-05-15 22:43:07] [ INFO ] [BD:40] tabla creada con exito
+[2024-05-15 22:43:07] [ WARN ] [OdontologoDAOH2:79] Columna "1" no encontrada
+Column "1" not found [42122-224]
+[2024-05-15 22:44:26] [ INFO ] [BD:40] tabla creada con exito
+[2024-05-15 22:44:26] [ WARN ] [OdontologoDAOH2:79] Columna "1" no encontrada
+Column "1" not found [42122-224]
+[2024-05-15 22:46:34] [ INFO ] [BD:40] tabla creada con exito
+[2024-05-15 22:46:34] [ WARN ] [OdontologoDAOH2:79] Columna "2" no encontrada
+Column "2" not found [42122-224]
+[2024-05-15 22:48:01] [ INFO ] [BD:40] tabla creada con exito
+[2024-05-15 22:50:32] [ INFO ] [BD:40] tabla creada con exito
